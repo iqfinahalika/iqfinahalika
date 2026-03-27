@@ -1,11 +1,11 @@
-# 📊 Portfolio Data Science - [Nama Kamu]
+# 📊 Portfolio Data Science - Iqfina Haula Halika
 
-## 👤 About Me
-Mahasiswa Data Science ITERA dengan minat pada Optimization, Graph Theory, dan Artificial Intelligence.
+## About Me
+Mahasiswa Data Science di Institut Teknologi Sumatera (ITERA) yang memiliki minat pada optimasi dan teori graf dalam analisis data. Memiliki pemahaman dalam algoritma, pemodelan matematis, serta pemrograman Python untuk menyelesaikan permasalahan berbasis struktur graf dan optimasi. Aktif mengembangkan kemampuan analitis untuk memecahkan masalah komputasional secara efisien.
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 1. Klasifikasi Status Gizi Balita
 **Deskripsi:**
@@ -49,7 +49,7 @@ SQL, DBMS
 
 ---
 
-## 🛠 Skills
+## Skills
 - Python, R, SQL  
 - Data Analysis  
 - Machine Learning (Basic)  
@@ -57,6 +57,6 @@ SQL, DBMS
 
 ---
 
-## 📬 Contact
+## Contact
 Email: [iqfina.123450076@student.itera.ac.id]  
 LinkedIn: [www.linkedin.com/in/iqfina-halikaa-0760929na]
