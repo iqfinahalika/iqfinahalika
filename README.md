@@ -58,5 +58,5 @@ SQL, DBMS
 ---
 
 ## Contact
-Email: [iqfina.123450076@student.itera.ac.id]  
-LinkedIn: [www.linkedin.com/in/iqfina-halikaa-0760929na]
+Email: iqfina.123450076@student.itera.ac.id  
+LinkedIn: www.linkedin.com/in/iqfina-halikaa-0760929na
