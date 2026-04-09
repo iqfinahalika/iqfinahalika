@@ -1,4 +1,5 @@
 # Portfolio Data Science - Iqfina Haula Halika
+https://iqfinahalikaa.lovable.app/
 
 ## About Me
 Mahasiswa Data Science di Institut Teknologi Sumatera (ITERA) yang memiliki minat pada optimasi dan teori graf dalam analisis data. Memiliki pemahaman dalam algoritma, pemodelan matematis, serta pemrograman Python untuk menyelesaikan permasalahan berbasis struktur graf dan optimasi. Aktif mengembangkan kemampuan analitis untuk memecahkan masalah komputasional secara efisien.
